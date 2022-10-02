@@ -1,0 +1,300 @@
+.body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial';
+}
+.container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 328px;
+}
+
+.text{
+    width: 34%;
+    color: #fff;
+    font-size: 30px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.text h2{
+    font-size: 50px;
+    margin: 0;
+}
+.text p{
+    margin: 0;
+}
+
+.ann{
+    background-image: url(/img/image\ 9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 100%;
+}
+
+.vadim{
+    background-image: url(/img/image\ 3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 100%;
+}
+
+.icon{
+    width: 30px;
+    height: 38px;
+}
+
+.green{
+    background-color: rgb(80, 192, 108);
+    height: 100%;
+}
+
+.blue{
+    background-color: rgb(69, 142, 226);
+    height: 100%;
+}
+
+2_____________________________________________________________________________________________________
+
+.container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 328px;
+}
+
+.text{
+    width: 34%;
+    color: #fff;
+    font-size: 30px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.text h2{
+    font-size: 50px;
+    margin: 0;
+}
+.text p{
+    margin: 0;
+}
+
+.arina{
+    background-image: url(/img/image\ 4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 82%;
+}
+
+
+.aquamarine{
+    width: 50%;
+    height: 328px;
+    display: flex;
+    background-color: #87AEB5;
+}
+
+
+.alina{
+    background-image: url(/img/image\ 7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 100%;
+}
+
+.yellow{
+    width: 50%;
+    display: flex;
+    background-color: #EEBD5E;
+}
+
+
+
+.icon{
+    width: 24px;
+}
+
+
+3_____________________________________________________________________________________________________
+
+.container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 328px;
+}
+
+.text{
+    width: 34%;
+    color: #fff;
+    font-size: 30px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.text h2{
+    font-size: 50px;
+    margin: 0;
+}
+.text p{
+    margin: 0;
+}
+
+.maria{
+    background-image: url(/img/image\ 10.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 100%;
+}
+
+.tigr{
+    background-image: url(/img/image\ 8.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 100%;
+}
+
+.icon{
+    width: 24px;
+}
+
+.red{
+    background-color: #e42e2ed7;
+    height: 100%;
+}
+
+.green{
+    background-color: rgb(80, 192, 108);
+    height: 100%;
+}
+
+
+4_____________________________________________________________________________________________________
+
+.container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 328px;
+}
+
+.text{
+    width: 34%;
+    color: #fff;
+    font-size: 30px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.text h2{
+    font-size: 50px;
+    margin: 0;
+}
+.text p{
+    margin: 0;
+}
+
+.alina2{
+    background-image: url(/img/image\ 6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 100%;
+}
+
+.vova{
+    background-image: url(/img/image\ 12.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 100%;
+}
+
+.icon{
+    width: 24px;
+}
+
+.blue{
+    background-color: rgb(69, 142, 226);
+    height: 100%;
+}
+
+.aquamarine{
+    background-color: #87AEB5;
+    height: 100%;
+}
+
+
+5_____________________________________________________________________________________________________
+
+.container{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    height: 328px;
+}
+
+.text{
+    width: 34%;
+    color: #fff;
+    font-size: 30px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.text h2{
+    font-size: 50px;
+    margin: 0;
+}
+.text p{
+    margin: 0;
+}
+
+.misha{
+    background-image: url(/img/image\ 5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 100%;
+}
+
+.roma{
+    background-image: url(/img/image\ 14.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 100%;
+}
+
+.icon{
+    width: 24px;
+}
+
+.yellow{
+    background-color: #EEBD5E;
+    height: 100%;
+}
+
+.red{
+    background-color: #e42e2ed7;
+    height: 100%;
+}
+
+
